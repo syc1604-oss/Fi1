@@ -1,0 +1,356 @@
+﻿
+{
+ 
+  
+
+
+
+"lives":[
+     
+
+
+{
+      "name": "台湾TV直播{翻}",
+      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
+      "url": "https://ha.msbot.dpdns.org/4gtv_api.php",
+      "type": 10,
+      "remark": "✈️TG频道@stymei1"
+    },
+
+     {
+           "name": "yiyifafa",
+            "ua": "okhttp/3.15",
+            "url": "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+             "logo":"https://live.404003.xyz/LOGO/{name}.png",
+
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
+{
+      "name": "yihad168tv",
+      "type": 0,
+      "url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/ndft2/tv/refs/heads/main/live.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
+ {
+            "name": "🐬黄蚂蚁先锋推流源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
+        },
+  
+  {
+    "name": "🥉 Wtvbox",
+    "url": "https://raw.githubusercontent.com/anjingguanyi/file4gtv/refs/heads/main/Wtvbox_list1.txt",
+   "ua": "okhttp/3.15",
+   "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+  },
+  
+{
+      "name": "台湾543",
+      "url": "https://iptv543.com/bbb.php",
+      "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
+      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png"
+    },
+
+
+
+  {
+            "name": "🐬4GTV怡淳酒店(梯子台湾节点)720p",
+            "type": 0,
+            "ua": "okhttp",
+            "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
+            "url": "http://xtvantsc.xyz/4gtv.txt"
+
+        },
+
+
+    {
+      "name": "綜合",
+      "url": "https://tv123.cc.cd/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+ 
+{
+      "name": "📺 平台直播",
+      "type": 0,
+      "url": "http://lzzlj.xyys.site/tvbox/live.txt",
+      "epg": "http://tvapius.chenfengtv.com/api/diyp.php?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "playerType": 2,
+      "timeout": 10
+    },
+
+{
+      "name": "🐅p2pTV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+  {
+            "name": "安博",
+           
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+  
+        {
+            "name": "台灣有線電視頻道 🇹🇼 ",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/syc1604-oss/Fi1/refs/heads/main/Twtest",
+            "ua": "okhttp",
+            "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
+             "logo":"https://live.404003.xyz/LOGO/{name}.png"
+
+        },
+      
+      {
+      "name": "哦了tv",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    
+{
+      "name": "全网通直播",
+      "type": 0,
+      "url": "http://183.136.134.152:250/全网通直播2.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+      
+
+
+
+
+  {
+      "name": "Gather",
+      "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+      "logo": "https://diyp.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/4.12.0"
+    },
+
+ {
+      "name": "🐅风云",
+      "type": 0,
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+
+ {   
+            "name": "🐬Mytv",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://cdn.qd.je/live.m3u"
+        },
+
+ {
+            "name": "🐬港奥台国际",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://tv123.vvvv.ee/tv.m3u"
+        },
+
+
+
+ {
+            "name": "🦄中港台直播源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://t.freetv.fun/m3u/playlist.txt"
+        },
+
+
+{
+            "name": "日后TV",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 2
+        },
+
+ {
+            "name": "SMARTV",
+            "type": 0,
+            "url": "https://ando.eu.org/smart.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
+{
+      "name": "JP直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Mvb1122/jp-iptv-different-user/refs/heads/main/out/JP.m3u
+"    },
+
+
+ {
+            "name": "日本地波",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/2025git/JPTV/refs/heads/main/JpTVList.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "https://animenosekai.github.io/japanterebi-xmltv/guide.xml"
+        },
+
+
+
+ 
+
+    {
+            "name": "🦄xxx视频资源🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+        },
+
+ 
+  {
+            "name": "🦄av视频资源🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/ypbustc/IPTV-zhang/refs/heads/main/av"
+        },
+
+
+   {
+            "name": "🐬欧美大片直播🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/欧美2160.m3u"
+        },
+  {
+      "name": "🐅老三TV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/zb",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+    },
+
+ 
+
+ {
+          "name": "裤佬Jsnzkpg TV",
+          "type":"0",
+          "url":"https://live.445569.xyz/live.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+
+
+ {
+            "name": "4GTV-1",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ypbustc/IPTV-zhang/master/4GTV.txt",
+            "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
+            "type": 0,
+            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
+            "timeout": 30,
+            "playerType": 2
+        },
+        {
+            "name": "4GTV-2",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/4gtv.txt",
+            "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
+            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
+   {
+            "name": "🐬4GTV(梯子任何节点)1080p",
+            "type": 0,
+            "ua": "okhttp",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
+        },
+
+
+      {
+            "name": "🦄iptvpro",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://hufa.zabc.net:8080/iptvpro.txt"
+        },
+
+{
+"name":"jackTV","url":"https://php.946985.filegear-sg.me/jackTV.m3u",
+"User-Agent": "PharosTVPlayer",
+"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+
+
+
+{"name":"mit直播","type":0,"url":"https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit","ua":"catvod.com","epg":"https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"888电视直播",
+"type":0,
+"url":"https://raw.githubusercontent.com/ffmking/ffmkingx/refs/heads/main/888.txt",
+"ua":"okhttp/3.15",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{ "name": "📻 Radio","url": "https://tinyurl.com/26823hbw"  }
+    
+
+],    
+
+   "headers": [
+        {
+            "host": "gslbserv.itv.cmvideo.cn",
+            "header": {
+                "User-Agent": "okhttp/3.12.13"
+            }
+          }
+        ],
+   
+     "proxy": [
+        "raw.githubusercontent.com"
+         ],
+
+    "ads": [
+        "static-mozai.4gtv.tv"
+    
+        ],
+
+
+   "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn",
+        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+        ],
+
+ "rules": [
+        { "name": "ofiii[台湾节点]",
+          "hosts": [  "www.ofiii.com"  ],        
+          "script": [
+                "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
+            ]  
+               
+          } 
+   
+     ]
+}     	            
