@@ -14,10 +14,11 @@
 華視,http://74.91.26.218:82/live/cts.m3u8
 公視,http://74.91.26.218:82/live/pts.m3u8
 公視台語,http://74.91.26.218:82/live/ptsty.m3u8
-壹電影,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+壹電影,http://211.23.95.147:18881/live/102_h265.ts
 原住民族電視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 客家電視,https://4gtv.158.qzz.io/163189/97058609-f76d-4885-877b-8e99dcc05e84/
 BBC Earth,https://live.catvod.com/?id=L2xyL2RMUU9BRTEyaldKclFXcXlwY1NHWk5TTlZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPWZmOGNjYWQ5JmNuPTFlMGQ1ODRjJmNwPTE3NDA0NDc2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=60439416eb97f8da1b8f6322a8439a0b
+Discovery,http://211.23.95.147:18881/live/19_h265.ts
 Discovery,https://live.catvod.com/?id=L2xyL2RMUU9BRTEyaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1mZjhjY2FkOSZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=60439416eb97f8da1b8f6322a8439a0b
 TLC 旅遊生活頻道,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
 動物星球,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1004.m3u8
@@ -37,15 +38,15 @@ momo親子,https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
 Thrill,http://mg.hmysapp.cn:177/港澳台/香港港hk/Thrill.php?id=301
 豬哥亮歌廳秀,https://iptv.852851.xyz/ch/14db6078bae8ec9eeb8ca5aab68b4b39/master.m3u8
 中天綜合,https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
-東風衛視,http://
-年代MUCH,http://gat.xyys.site/cdnlive.php?mode=play;id=14a034cf2f1b588cac7fcb7d77be7cb4;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+東風衛視,http://211.23.95.147:18881/live/37_h265.ts
+年代MUCH,http://211.23.95.147:18881/live/38_h265.ts
 中天娛樂,https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
 東森戲劇,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
-八大戲劇,http://gat.xyys.site/cdnlive.php?mode=play;id=3ca02984d7965def98fee7107d4c11b1;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+八大戲劇,http://211.23.95.147:18881/live/41_h265.ts
 TVBS歡樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 緯來戲劇,https://kaniptv.com/xz/xz_c40bcbbbb3/wwkds.php?id=wlxj
 愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/
-MagellanTV頻道,https://4gtv.158.qzz.io/163189/3b0e6050-85e3-456f-9f52-98a4af034e01/
+華藝中文台,http://211.23.95.147:18881/live/31_h265.ts
 Love Nature,https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 三立iNEWS,https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
@@ -70,8 +71,8 @@ HBO HD,https://kaniptv.com/xz/xz_c40bcbbbb3/wwkds.php?id=hbohd
 AXN,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1054.m3u8
 AXN,http://61.61.67.208:19890/trams/906/playlist.m3u8?token=885252
 好萊塢電影,http://49.232.143.177:80/pyxg/export.php?id=42&key=cc89
-好萊塢電影,p3p://167.114.175.6:55331/62cee8b3000ea6aedb30a55616047866
-amc電影,http://gat.xyys.site/cdnlive.php?mode=play;id=b9bbfc6978f0520292b7af6c21c620e6;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+好萊塢電影,http://211.23.95.147:18881/live/68_h265.ts
+amc電影,http://211.23.95.147:18881/live/69_h265.ts
 CINEMAX,https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 CINEMAX,https://cdn.dfkj.live/hsywlive.php?id=101
 緯來育樂,https://cdn.19891230.eu.org/api/VL-E/index.m3u8
@@ -80,9 +81,11 @@ DAZN 一,rtmp://f13h.mine.nu/sat/tv731
 DAZN 二,rtmp://f13h.mine.nu/sat/tv741
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 博斯運動一,https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
+緯來日本,http://211.23.95.147:18881/live/77_h265.ts
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1010.m3u8
 國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1010.m3u8
+國興衛視,http://211.23.95.147:18881/live/78_h265.ts
 BBC Lifestyle,http://gat.xyys.site/cdnlive-fusion.php?mode=play&id=700dfd7caf80a973e4d0659b37c6055c&token=zchtPms9edybAOF9LRKAJkxHeOOWDRqA&actoken=abdfc68cb8d2405f
 靖天日本,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv047/index.m3u8
 Animax,http://gat.xyys.site/cdnlive.php?mode=play;id=edd2e32a9c2c5d42b134991cb7c0f231;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
