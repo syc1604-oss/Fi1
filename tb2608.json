@@ -488,7 +488,7 @@
  {
             "name": "台灣有線電視頻道 🇹🇼 ",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/syc1604-oss/Fi1/refs/heads/main/Twtest",
+            "url": "https://raw.githubusercontent.com/syc1604-oss/Fi1/refs/heads/main/Twtest.txt",
             "ua": "okhttp",
             "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
              "logo":"https://live.404003.xyz/LOGO/{name}.png"
