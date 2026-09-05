@@ -3,7 +3,7 @@
  
 
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 寰宇新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
@@ -1159,6 +1159,7 @@ RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 金光布袋戲,https://cdn.qd.je/163189.php?id=jgbdx
 亞洲武俠,https://cdn.qd.je/163189.php?id=yzwx
 
+4GTV,#genre#
 
 parse=1
 ua=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
