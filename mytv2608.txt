@@ -27,9 +27,9 @@
         },
 
 {
-      "name": "yihad168tv",
+      "name": "liveTVList",
       "type": 0,
-      "url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/ndft2/tv/refs/heads/main/live.m3u",
+      "url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/lisb0910/tv/refs/heads/main/liveTVList.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -60,27 +60,23 @@
 
 
   {
-            "name": "🐬4GTV怡淳酒店(梯子台湾节点)720p",
-            "type": 0,
-            "ua": "okhttp",
-            "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-            "url": "http://xtvantsc.xyz/4gtv.txt"
-
-        },
-
-
+      "name": "🎉123TV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://tv123.vvvv.ee/tv.m3u"
+    },
     {
-      "name": "綜合",
-      "url": "https://tv123.cc.cd/tv.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "🎉TV123",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://tv123.cc.cd/tv.m3u"
     },
 
  
 {
-      "name": "📺 平台直播",
+      "name": "📺 gatzb0905平台直播",
       "type": 0,
-      "url": "http://lzzlj.xyys.site/tvbox/live.txt",
+      "url": "https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatzb0905.txt",
       "epg": "http://tvapius.chenfengtv.com/api/diyp.php?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okHttp/Mod-1.5.0.0",
@@ -125,23 +121,25 @@
 
     
 {
-      "name": "全网通直播",
+      "name": "💝 台灣新聞",
       "type": 0,
-      "url": "http://183.136.134.152:250/全网通直播2.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
-      
-
-
-
-
-  {
-      "name": "Gather",
-      "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
+    {
+      "name": "🎉益力多",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u"
+    },
+    {
+      "name": "🎉YanG",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.1989.click/playlist.m3u"
     },
 
  {
@@ -186,9 +184,9 @@
         },
 
  {
-            "name": "SMARTV",
+            "name": "蝴蝶影视",
             "type": 0,
-            "url": "https://ando.eu.org/smart.m3u",
+            "url": "https://sub.lytvs.top/get?token=tk_d68ff5fe",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -248,7 +246,7 @@
  {
           "name": "裤佬Jsnzkpg TV",
           "type":"0",
-          "url":"https://live.445569.xyz/live.m3u",
+          "url":"https://iptv.445569.xyz/live.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -282,19 +280,21 @@
         },
 
 
-      {
-            "name": "🦄iptvpro",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://hufa.zabc.net:8080/iptvpro.txt"
-        },
-
-{
-"name":"jackTV","url":"https://php.946985.filegear-sg.me/jackTV.m3u",
-"User-Agent": "PharosTVPlayer",
-"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
+     {
+      "name": "IPTV研究所",
+      "type": 0,
+      "url": "https://iptv.852851.xyz/sub/ebMaVCuF6lTu/playlist.m3u",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "163189",
+      "type": 0,
+      "ua": "okhttp/5.3.2",
+      "url": "https://cdn.qd.je/live.m3u"
+    },
 
 
 
