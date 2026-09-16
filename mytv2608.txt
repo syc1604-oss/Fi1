@@ -29,7 +29,7 @@
 {
       "name": "liveTVList",
       "type": 0,
-      "url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/lisb0910/tv/refs/heads/main/liveTVList.txt",
+      "url": "https://raw.githubusercontent.com/lisb0910/tv/refs/heads/main/liveTVList.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
