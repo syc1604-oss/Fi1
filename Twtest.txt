@@ -1,13 +1,14 @@
 台灣有線電視頻道,#genre#
 
- 
+
+
 
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 寰宇新聞,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 寰宇新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-華藝中文台,http://211.23.95.147:18881/live/31_h265.ts
+華藝中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
 民視,rtmp://f13h.mine.nu/sat/tv051
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -35,10 +36,12 @@ momo親子,https://hb.msbot.dpdns.org/?id=momo-kids
 八大綜合,http://211.23.95.147:18881/live/28_h265.ts 
 三立台灣,http://211.23.95.147:18881/live/29_h265.ts 
 三立都會,http://211.23.95.147:18881/live/30_h265.ts 
-韓國娛樂台KMTV,https://4gtv.tvbjack.ggff.net/?id=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV  
+韓國娛樂台KMTV,http://211.23.95.147:18881/live/31_h265.ts  
 東森綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1041.m3u8
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 MagellanTV頻道 (麥哲倫頻道),https://ha.msbot.dpdns.org/4gtv_api.php?id=450
+华纳电视,http://31.43.191.125:8080/restream/restream/34785
+美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 中天綜合,http://211.23.95.147:18881/live/36_h265.ts 
 東風衛視,http://211.23.95.147:18881/live/37_h265.ts
 年代MUCH,http://211.23.95.147:18881/live/38_h265.ts 
@@ -1638,12 +1641,12 @@ TBS,http://iptv.852851.xyz/l/eDhgZEVyvpQ7GfgMDXsHNqzC-ORplKIGqHf4bhSWlBIEBcGzFGg
 フジテレビ,http://iptv.852851.xyz/l/1wNWOMmPIIyISdc1bxg6yWasowxTipgGomCa2Qt3yezQDxIhw6_GJ-FBzHCPYvTl/play
  
 テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772975&amp;sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
- テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1731880947&amp;sign=fbf8faad5d4255f8c612f745528097e0ddb89bc048b921606c4e812cb6fad634
- テレビ朝日,http://iptv.852851.xyz/l/MvjgcZr4NMsxg4moWADo-_qlMTBE75J5_2Nds9bqyjq2Kt1aKNZh1aAtkj6kvwAD/play
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1731880947&amp;sign=fbf8faad5d4255f8c612f745528097e0ddb89bc048b921606c4e812cb6fad634
+テレビ朝日,http://iptv.852851.xyz/l/MvjgcZr4NMsxg4moWADo-_qlMTBE75J5_2Nds9bqyjq2Kt1aKNZh1aAtkj6kvwAD/play
  
-TV-TOKYO,http://103.255.250.202:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&amp;gid=bs04&amp;channel=zhongying
-TV-TOKYO,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1731880960&amp;sign=6c38a87b1200a510db9781325f615bdd0509c8be5bd3ea38e91cbd697d0e8fbf
-TV-TOKYO,http://103.255.250.194:5002/gd07.m3u8?token=83a8c16518713fe9318aaacdadfaa8fe19fe7f83c3c151fe98ee8621303d89d6&amp;gid=gd07&amp;channel=zhongying
+テレビ東京,http://103.255.250.202:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&amp;gid=bs04&amp;channel=zhongying
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1731880960&amp;sign=6c38a87b1200a510db9781325f615bdd0509c8be5bd3ea38e91cbd697d0e8fbf
+テレビ東京,http://103.255.250.194:5002/gd07.m3u8?token=83a8c16518713fe9318aaacdadfaa8fe19fe7f83c3c151fe98ee8621303d89d6&amp;gid=gd07&amp;channel=zhongying
  
 TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772970&amp;sign=498184efda0887f8d4bf7c9db688072421a95f0013c34712505ac434f7245db5
 TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1731880954&amp;sign=3a9912b88ba26023a90ed99fbecd173ceef69b67ecc3147a242810375a87b2d3
@@ -1657,11 +1660,11 @@ TOKYO MX,http://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e43
 ＡＢＣテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1732075376&amp;sign=f9a2f4f320e30f2775f0a93fb5ecb7a784a0b26394ad3545413e86837cc56e54
 ＡＢＣテレビ,http://103.255.250.187:5002/gx02.m3u8?token=14e515c697214751409d9aad3b193b86de8ff35b3904999ab7cd5b1b0a405258&amp;gid=gx02&amp;channel=zhongying
  
-関西 テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&amp;isp=11&amp;bind=0&amp;uin=207623&amp;playseek=0&amp;timestamp=1738175316&amp;sign=183435f882f5bae4015b5d4809a4e199b38834e9629dd0717e859c20bf497d1b
-関西 テレビ,http://23.88.77.42:5002/gx03.m3u8?token=3c31330855134c9ca03398e6f040d68bdfdf4f8522d36c62bea4bf4e71dc5053&amp;gid=gx03&amp;channel=zhongying
+関西テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&amp;isp=11&amp;bind=0&amp;uin=207623&amp;playseek=0&amp;timestamp=1738175316&amp;sign=183435f882f5bae4015b5d4809a4e199b38834e9629dd0717e859c20bf497d1b
+関西テレビ,http://23.88.77.42:5002/gx03.m3u8?token=3c31330855134c9ca03398e6f040d68bdfdf4f8522d36c62bea4bf4e71dc5053&amp;gid=gx03&amp;channel=zhongying
  
-よみうりテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772946&amp;sign=ef60f10357d337fb179256b57376d388a68f5c98bd24e701e6abdb4133ee34df
-よみうりテレビ,http://103.255.250.187:5002/gx04.m3u8?token=07c10c699b620bba74a8f41e2f6bccc311383e3ccc7e6c601c6ccc2cb176fc31&amp;gid=gx04&amp;channel=zhongying
+読売テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772946&amp;sign=ef60f10357d337fb179256b57376d388a68f5c98bd24e701e6abdb4133ee34df
+読売テレビ,http://103.255.250.187:5002/gx04.m3u8?token=07c10c699b620bba74a8f41e2f6bccc311383e3ccc7e6c601c6ccc2cb176fc31&amp;gid=gx04&amp;channel=zhongying
  
 大阪テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772943&amp;sign=191c81df1c50ba0fdb707b25da1f34969bf4564b9d5c0e1a8469105db757377f
 大阪テレビ,http://103.255.250.187:5002/gx05.m3u8?token=e7c5a8238025e33288e85d744c66f559ac71425049ad55ebff2c7cc8156b7cc1&amp;gid=gx05&amp;channel=zhongying
@@ -1670,8 +1673,8 @@ TOKYO MX,http://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e43
 ＮＨＫ総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1732075422&amp;sign=7fb9fbcd8c1b2614ac983e9ec2fdb6e3de6e1f4bbfa996ecc4ba6bb92930142f
 ＮＨＫ総合,http://103.255.250.202:5002/gx06.m3u8?token=8e9b4c79c61d7699511b63e699afef81e7405236550d83504b0102f77e1d7a21&amp;gid=gx06&amp;channel=zhongying
  
-サンテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&amp;17&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732570029&amp;sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1732077737&amp;sign=65cadd5e6e80806e61f5f5d5f9ad1ebf6da4c931a266555167
-サンテレビ,http://103.255.250.187:5002/gx07.m3u8?token=38a824287e0290c4a2fb507ed69dd9dcb299c7e41d1d25e4977bf699bd73d4db&amp;gid=gx07&amp;channel=zhongying
+サンテレビSUN TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&amp;17&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732570029&amp;sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1732077737&amp;sign=65cadd5e6e80806e61f5f5d5f9ad1ebf6da4c931a266555167
+サンテレビSUN TV,http://103.255.250.187:5002/gx07.m3u8?token=38a824287e0290c4a2fb507ed69dd9dcb299c7e41d1d25e4977bf699bd73d4db&amp;gid=gx07&amp;channel=zhongying
 
 BS NTV,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
 BS Asahi,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
