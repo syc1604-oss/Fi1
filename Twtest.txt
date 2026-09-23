@@ -1620,6 +1620,26 @@ ua=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleW
 
 
 日本頻道,#genre#
+
+NHK 総合,http://67.215.237.218:5002/hdgd01.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+NHK Eテレ,http://67.215.237.218:5002/hdgd02.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+日本テレビ,http://67.215.237.218:5002/hdgd03.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+TBS,http://67.215.237.218:5002/hdgd04.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+フジテレビ,http://67.215.237.218:5002/hdgd05.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+テレビ朝日,http://67.215.237.218:5002/hdgd06.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+テレビ東京,http://67.215.237.218:5002/hdgd07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+TOKYO MX1,http://67.215.237.218:5002/hdgd08.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+
+MBS毎日放送,http://67.215.237.218:5002/gx01.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+ABCテレビ,http://67.215.237.218:5002/gx02.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+関西テレビ,http://67.215.237.218:5002/gx03.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+読売テレビ,http://67.215.237.218:5002/gx04.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+テレビ大阪,http://67.215.237.218:5002/gx05.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+NHK 総合,http://67.215.237.218:5002/gx06.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+サンテレビSUN TV ,http://67.215.237.218:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+
+
+
 ＮＨＫ総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&amp;isp=11&amp;bind=0&amp;uin=207623&amp;playseek=0&amp;timestamp=1738174531&amp;sign=4fffe228ff7e81ecc59669cecd83f002cc3c5bf1fd6045c19938f66ed88b68e5
 ＮＨＫ総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940788&amp;sign=a5f2e076835f1c0a3f970882613c32ce4b6d2126133279419a221a531d760ee0
 ＮＨＫ総合,http://iptv.852851.xyz/l/OOJDq89MAEkBptSUepfUlYDjBu1YpZmEAZN_1nSb9CS9vLY2H0_UgKWeMIq0Zg7R/play
