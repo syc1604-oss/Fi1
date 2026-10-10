@@ -5,7 +5,7 @@
 
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 寰宇新聞,http://live.yiwo.uk:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false&token=yiwo
-寰宇新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
+寰宇新聞,https://iptv.yang-1989.xyz/4gtv/e3vvva.m3u8?token=d763cc9c78a25894f6c25a047bb5fcc285b6b32345bc52ab
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 華藝中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
@@ -21,7 +21,7 @@
 壹電影,http://211.23.95.147:18881/live/102_h265.ts 
 原住民族電視,http://220.135.241.47:8303/0.ts 
 客家電視,http://220.135.241.47:8307/0.ts 
-BBC Earth,https://hb.msbot.dpdns.org/?id=bbc-earth 
+BBC Earth,https://migu.yang-1989.xyz/comp/ynjwd4.m3u8?token=e71d82f0a9291b0180f80145ecfb1d4ed0057960220c2ee1
 Discovery,http://211.23.95.147:18881/live/19_h265.ts
 TLC 旅遊生活頻道,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
 TLC 旅遊生活頻道,http://211.23.95.147:18881/live/21_h265.ts
@@ -52,11 +52,11 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 緯來戲劇,http://211.23.95.147:18881/live/43_h265.ts 
 JET綜合台,http://211.23.95.147:18881/live/45_h265.ts 
 Discovery亞洲台,http://125.227.210.55:8154/VideoInput/play.ts
-Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139 
+Love Nature,https://iptv.yang-1989.xyz/4gtv/d7t3pq.m3u8?token=d763cc9c78a25894f6c25a047bb5fcc285b6b32345bc52ab
 Love Nature 4K,http://iptv.852851.xyz/l/av7fjCVLf8jSXJKv8m3GDzSJnn2RNc3XFASThJ-qxZb1Z93uJZDsK4eNmIXn9Kw9/play
 壹電視新聞,http://211.23.95.147:18881/live/49_h265.ts  
 年代新聞,http://211.23.95.147:18881/live/50_h265.ts
-東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
+東森新聞,https://iptv.yang-1989.xyz/4gtv/e3vvva.m3u8?token=d763cc9c78a25894f6c25a047bb5fcc285b6b32345bc52ab
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8   
@@ -66,7 +66,7 @@ TVBS,http://211.23.95.147:18881/live/56_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts 
 ROCK Action,https://4gtv.tvbjack.ggff.net/?id=ROCK%20Action
 ROCK Entertainment,https://hb.msbot.dpdns.org/?id=rock-enertainment
-CATCHPLAY電影,https://cdn.dfkj.live/hsywlive.php?id=116
+CATCHPLAY電影,https://iptv.yang-1989.xyz/tw/ytgajk.m3u8?token=d763cc9c78a25894f6c25a047bb5fcc285b6b32345bc52ab
 東森電影,https://hb.msbot.dpdns.org/?id=history
 緯來電影,http://125.227.210.55:1082/VideoInput/play.ts
 LS龍祥電影,http://125.227.210.55:1084/VideoInput/play.ts
@@ -117,9 +117,9 @@ History 歷史頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=214
 幸福空間居家,https://4gtv.tvbjack.ggff.net/?id=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0
 Mezzo Live HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=79
 TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
-HBO Signature原創鉅獻,https://cdn.dfkj.live/hsywlive.php?id=97
-HBO Hits強檔,https://cdn.dfkj.live/hsywlive.php?id=98
-HBO Family家庭,https://cdn.dfkj.live/hsywlive.php?id=99
+HBO Signature原創鉅獻,https://migu.yang-1989.xyz/comp/npm6yj.m3u8?token=e71d82f0a9291b0180f80145ecfb1d4ed0057960220c2ee1
+HBO Hits強檔,https://migu.yang-1989.xyz/comp/y4tpm7.m3u8?token=e71d82f0a9291b0180f80145ecfb1d4ed0057960220c2ee1
+HBO Family家庭,https://migu.yang-1989.xyz/comp/72zj44.m3u8?token=e71d82f0a9291b0180f80145ecfb1d4ed0057960220c2ee1
 龍華電影,https://cdn.qd.je/163189/lhdy
 龍華經典,https://cdn.qd.je/163189/lhjd
 龍華偶像,https://cdn.qd.je/163189/lhox
@@ -161,131 +161,7 @@ NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 
 
 
-民視第一,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0
-民視台灣,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
-民視,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96
-大愛電視,http://106.107.242.201:19950/caonima?id=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96
-中視,http://106.107.242.201:19950/caonima?id=%E4%B8%AD%E8%A6%96
-華視,http://106.107.242.201:19950/caonima?id=%E8%8F%AF%E8%A6%96
-三立綜合,http://106.107.242.201:19950/caonima?id=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
-客家電視,http://106.107.242.201:19950/caonima?id=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0
-八大綜藝,http://106.107.242.201:19950/caonima?id=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
-TVBS精采,http://106.107.242.201:19950/caonima?id=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
-靖天綜合,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
- 
-靖天日本,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-新唐人亞太,http://106.107.242.201:19950/caonima?id=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
-ARIRANG阿里郎頻道,http://106.107.242.201:19950/caonima?id=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
-Global Trekker,http://106.107.242.201:19950/caonima?id=Global%20Trekker
-原住民族電視,http://106.107.242.201:19950/caonima?id=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
-東森購物二,http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%BA%8C%E5%8F%B0
- 
-LiveABC互動英語頻道,http://106.107.242.201:19950/caonima?id=LiveABC%E4%BA%92%E5%8B%95%E8%8B%B1%E8%AA%9E%E9%A0%BB%E9%81%93
-達文西頻道,http://106.107.242.201:19950/caonima?id=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
-ELTV生活英語,http://106.107.242.201:19950/caonima?id=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
-Nick Jr. 兒童頻道,http://106.107.242.201:19950/caonima?id=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
-尼克兒童頻道,http://106.107.242.201:19950/caonima?id=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
-DreamWorks 夢工廠動畫,http://106.107.242.201:19950/caonima?id=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
-靖天卡通,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
-靖洋卡通Nice Bingo,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
-MOMO親子,http://106.107.242.201:19950/caonima?id=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0
-東森購物一,http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%80%E5%8F%B0
- 
-鏡電視新聞,http://106.107.242.201:19950/caonima?id=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-東森新聞,http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
-華視新聞,http://106.107.242.201:19950/caonima?id=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
-民視新聞,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-三立新聞iNEWS,http://106.107.242.201:19950/caonima?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
-TVBS新聞,http://106.107.242.201:19950/caonima?id=TVBS%E6%96%B0%E8%81%9E
-東森財經新聞,http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
-中視新聞,http://106.107.242.201:19950/caonima?id=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
-Bloomberg TV,http://106.107.242.201:19950/caonima?id=Bloomberg%20TV
-寰宇新聞,http://106.107.242.201:19950/caonima?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
-寰宇新聞台灣,http://106.107.242.201:19950/caonima?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
-SBN全球財經,http://106.107.242.201:19950/caonima?id=SBN%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E5%8F%B0
-寰宇財經,http://106.107.242.201:19950/caonima?id=%E5%AF%B0%E5%AE%87%E8%B2%A1%E7%B6%93%E5%8F%B0
-TVBS,http://106.107.242.201:19950/caonima?id=TVBS
-東森購物四,http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%9B%9B%E5%8F%B0
-民視綜藝,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D%E5%8F%B0
-豬哥亮歌廳秀,http://106.107.242.201:19950/caonima?id=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80
-靖天育樂,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
-KLT-靖天國際,http://106.107.242.201:19950/caonima?id=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
-Nice TV 靖天歡樂,http://106.107.242.201:19950/caonima?id=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
-靖天資訊,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
-TVBS歡樂,http://106.107.242.201:19950/caonima?id=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
-韓國娛樂台 KMTV,http://106.107.242.201:19950/caonima?id=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
-ROCK Entertainment,http://106.107.242.201:19950/caonima?id=ROCK%20Entertainment
-Lifetime 娛樂頻道,http://106.107.242.201:19950/caonima?id=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
-電影原聲台CMusic,http://106.107.242.201:19950/caonima?id=%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%8F%B0CMusic
-TRACE Urban,http://106.107.242.201:19950/caonima?id=TRACE%20Urban
-Mezzo Live HD,http://106.107.242.201:19950/caonima?id=Mezzo%20Live%20HD
-CLASSICA 古典樂,http://106.107.242.201:19950/caonima?id=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
-東森購物三,http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%89%E5%8F%B0
- 
-getwin sport運動,http://106.107.242.201:19950/caonima?id=getwin%20sport%E9%81%8B%E5%8B%95%E5%8F%B0
-INULTRA,http://106.107.242.201:19950/caonima?id=INULTRA
-博斯高球,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E5%8F%B0
-博斯高球二,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E4%BA%8C%E5%8F%B0
-博斯運動一,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%B8%80%E5%8F%B0
-博斯無限,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E5%8F%B0
-博斯網球,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83%E5%8F%B0
-博斯運動二,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%BA%8C%E5%8F%B0
-博斯魅力,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0
-博斯無限二,http://106.107.242.201:19950/caonima?id=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E4%BA%8C%E5%8F%B0
-TRACE Sport Stars,http://106.107.242.201:19950/caonima?id=TRACE%20Sport%20Stars
-智林體育,http://106.107.242.201:19950/caonima?id=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
-時尚運動X,http://106.107.242.201:19950/caonima?id=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
-車迷TV,http://106.107.242.201:19950/caonima?id=%E8%BB%8A%E8%BF%B7TV
-GINX Esports TV,http://106.107.242.201:19950/caonima?id=GINX%20Esports%20TV
-Pet Club TV,http://106.107.242.201:19950/caonima?id=Pet%20Club%20TV
- 
-民視旅遊,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
-滾動力rollor,http://106.107.242.201:19950/caonima?id=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor
-亞洲旅遊,http://106.107.242.201:19950/caonima?id=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-fun探索娛樂,http://106.107.242.201:19950/caonima?id=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
-幸福空間居家,http://106.107.242.201:19950/caonima?id=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0
-Love Nature,http://106.107.242.201:19950/caonima?id=Love%20Nature
-History 歷史頻道,http://106.107.242.201:19950/caonima?id=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
-愛爾達生活旅遊,http://106.107.242.201:19950/caonima?id=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
-LUXE TV Channel,http://106.107.242.201:19950/caonima?id=LUXE%20TV%20Channel
-TV5MONDE STYLE HD 生活時尚,http://106.107.242.201:19950/caonima?id=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
-MagellanTV頻道 (麥哲倫頻道),http://106.107.242.201:19950/caonima?id=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
-
-ROCK Xstream搖滾極限頻道,http://106.107.242.201:19950/caonima?id=ROCK%20Xstream%E6%90%96%E6%BB%BE%E6%A5%B5%E9%99%90%E9%A0%BB%E9%81%93
-公視戲劇,http://106.107.242.201:19950/caonima?id=%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87
-民視影劇,http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0
-HITS頻道,http://106.107.242.201:19950/caonima?id=HITS%E9%A0%BB%E9%81%93
-八大精彩,http://106.107.242.201:19950/caonima?id=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
-靖天戲劇,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0
-靖洋戲劇,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0
-CI 罪案偵查頻道,http://106.107.242.201:19950/caonima?id=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
-視納華仁紀實頻道,http://106.107.242.201:19950/caonima?id=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
-影迷數位紀實,http://106.107.242.201:19950/caonima?id=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0
-金光布袋戲,http://106.107.242.201:19950/caonima?id=%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2
-ROCK Action,http://106.107.242.201:19950/caonima?id=ROCK%20Action
-OUTtv,http://106.107.242.201:19950/caonima?id=OUTtv
-采昌影劇,http://106.107.242.201:19950/caonima?id=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0
-靖天映畫,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
-靖天電影,http://106.107.242.201:19950/caonima?id=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0
-wedotv Movies,http://106.107.242.201:19950/caonima?id=wedotv%20Movies
-影迷數位電影,http://106.107.242.201:19950/caonima?id=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
-amc電影,http://106.107.242.201:19950/caonima?id=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
-CinemaWorld,http://106.107.242.201:19950/caonima?id=CinemaWorld
-My Cinema Europe HD 我的歐洲電影,http://106.107.242.201:19950/caonima?id=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
-好消息,http://106.107.242.201:19950/caonima?id=%E5%A5%BD%E6%B6%88%E6%81%AF
-好消息2,http://106.107.242.201:19950/caonima?id=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
-大愛二,http://106.107.242.201:19950/caonima?id=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
-人間衛視,http://106.107.242.201:19950/caonima?id=%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96
-ABC Australia 澳洲公廣頻道,http://106.107.242.201:19950/caonima?id=ABC%20Australia%20%E6%BE%B3%E6%B4%B2%E5%85%AC%E5%BB%A3%E9%A0%BB%E9%81%93
-NHK WORLD-JAPAN,http://106.107.242.201:19950/caonima?id=NHK%20WORLD-JAPAN
-FRANCE24 英文,http://106.107.242.201:19950/caonima?id=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
-半島國際新聞,http://106.107.242.201:19950/caonima?id=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
-CNBC Asia 財經,http://106.107.242.201:19950/caonima?id=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
-DW德國之聲,http://106.107.242.201:19950/caonima?id=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
-經典電影,http://106.107.242.201:19950/caonima?id=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0
-經典卡通,http://106.107.242.201:19950/caonima?id=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0
-精選動漫,http://106.107.242.201:19950/caonima?id=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
-
+http://106.107.242.201:19950/caonima?id=%E4%B8%AD%E8%A6%96
 
 CINEMAX,http://125.227.210.55:1001/VideoInput/play.ts
 CNBC,http://125.227.210.55:1002/VideoInput/play.ts
