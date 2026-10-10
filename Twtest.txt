@@ -2556,8 +2556,7 @@ Yosso TV Sexy,http://233d3515.kazmazpaz.ru/iptv/H8Z65MVLMM4E9Q/14176/manifest.m3
 
 📺歐美色情,#genre#
 parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
 kaloopy ,https://www.distro.tv/live/kaloopy/
 Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
 O LaLa,http://hochu.tv/o-la-la.html
